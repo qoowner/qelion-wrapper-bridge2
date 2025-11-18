@@ -8,7 +8,8 @@ This project provides a simple and clean **web interface** to feed document cont
 
 > **Note:** This project is currently **macOS-only** (macOS 10.15+) due to its reliance on the Apple Vision framework for OCR.
 
-<img width="1470" height="702" alt="UI" src="https://github.com/user-attachments/assets/e0bf86ba-c3a7-47b0-abd9-0473e4dbe095" />
+
+<img width="1269" height="773" alt="Снимок экрана 2025-11-18 в 16 01 00" src="https://github.com/user-attachments/assets/ce902487-04ae-4ac3-83c5-8369400b1e77" />
 
 
 ## Core Features
